@@ -1,6 +1,6 @@
-public class AgressifBehaviour implements  IBehaviour {
+public class NouveauBehaviour implements  IBehaviour {
     @Override
     public void moveCommand() {
-        System.out.println("AgressifBehaviour moveCommand");
+        System.out.println("NouveauBehaviour moveCommand");
     }
 }

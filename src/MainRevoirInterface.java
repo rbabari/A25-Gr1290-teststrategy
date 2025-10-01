@@ -3,7 +3,7 @@ import java.util.List;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class MainRevoirInterface {
     public static void main(String[] args) {
 
         ArrayList maListe1 = new ArrayList();
@@ -15,5 +15,7 @@ public class Main {
         maListe5.add("un mot ");
 
         // Ctrl + B permet de aller au code source ...
+        // Interface : classe abstraite à 100
+        // Un contract que d'autre classes doivent respecter
     }
 }
